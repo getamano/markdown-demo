@@ -1,4 +1,4 @@
-# Markdown
+# Markdown 🔥
 
 Markdown is a _markup_ language that offers a lean approach to content editing by shielding content creators from the overhead of HTML. 
  
