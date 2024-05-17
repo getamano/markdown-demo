@@ -87,6 +87,8 @@ use the backtick (`) character
 code goes here
 ```
 
+GFM (GitHub-Flavored Markdown)  extends this support with syntax highlighting for popular languages
+
 ##### Java Code
 
 ```java
